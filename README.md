@@ -18,6 +18,9 @@ For image loading and point cloud generation:
 
 For zigzag persistence:
 - Dionysus2 -> for its implementation of zigzag persistence
+```
+!pip install dionysus
+```
 
 Numerical/plotting/other:
 - numpy
